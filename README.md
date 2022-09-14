@@ -10,7 +10,7 @@ Repository for the code of our Masterthesis "The influence of deep neural networ
 | Fairface | Kärkkäinen, Joo | https://github.com/dchen236/FairFace |
 | Face_Recognition | Bansal | https://github.com/ChayanBansal/Face_Recognition |
 | AGR-recognition | Kumar | https://github.com/kuabhish/Age-Gender-Race-recognition |
-| AGR-detection-using-cnn | Senthilnathan | https://github.com/Sobika2531/Age-Gender-And-Race-Detection-Using-CNN |
+
 
 ## Datasets used
 
@@ -19,3 +19,4 @@ Repository for the code of our Masterthesis "The influence of deep neural networ
 | UTKFace | 20k+ | age, gender, ethnicity | https://susanqq.github.io/UTKFace/ |
 | Fairface | 100k+ | age groups, gender, ethnicity | https://www.kaggle.com/datasets/lantian773030/fairface |
 | Face_Recognition.json | 100+ | age groups, gender, ethnicity, emotion | https://github.com/ChayanBansal/Face_Recognition/tree/master/dataset |
+
