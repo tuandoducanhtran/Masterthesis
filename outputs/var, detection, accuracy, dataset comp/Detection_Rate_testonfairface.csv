@@ -1,0 +1,9 @@
+﻿model,dataset,detection_rate
+AGR,Fairface (cropped),0.727666666666667
+AGR,Fairface (full),0.809
+Fairface,Fairface (cropped),0.727666666666667
+Fairface,Fairface (full),0.809
+FAR,Fairface (cropped),0.552666666666667
+FAR,Fairface (full),0.83
+Lightface,Fairface (cropped),0.319
+Lightface,Fairface (full),0.670666666666667

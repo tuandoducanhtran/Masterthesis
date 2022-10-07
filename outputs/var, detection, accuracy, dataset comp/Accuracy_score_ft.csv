@@ -1,0 +1,13 @@
+﻿model,dataset,label,accuracy_score
+AGRnew,Fairface,age,0.32
+AGRnew,Fairface,gender,0.69
+AGRnew,Fairface,race,0.32
+AGRnewft1,Fairface,age,0.37
+AGRnewft1,Fairface,gender,0.71
+AGRnewft1,Fairface,race,0.51
+AGRnewft2,Fairface,age,0.35
+AGRnewft2,Fairface,gender,0.74
+AGRnewft2,Fairface,race,0.52
+AGRnewft3,Fairface,age,0.36
+AGRnewft3,Fairface,gender,0.73
+AGRnewft3,Fairface,race,0.52

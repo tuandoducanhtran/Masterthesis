@@ -1,0 +1,13 @@
+﻿model,label,avg acc
+AGR,age,0.3466
+AGR,gender,0.77
+AGR,race,0.5133
+Fairface,age,0.61
+Fairface,gender,0.95
+Fairface,race,0.7633
+FAR,age,0.33
+FAR,gender,0.4966
+FAR,race,0.2866
+Lightface,age,0.34
+Lightface,gender,0.7766
+Lightface,race,0.6533

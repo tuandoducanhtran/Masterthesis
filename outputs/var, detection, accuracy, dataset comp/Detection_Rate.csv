@@ -1,0 +1,13 @@
+﻿model,dataset,detection_rate
+AGR,Face ARG,0.988
+AGR,Fairface (full),0.809
+AGR,UTK (full),0.961
+Fairface,Face ARG,0.988
+Fairface,Fairface (full),0.809
+Fairface,UTK (full),0.961
+FAR,Face ARG,0.981333333333333
+FAR,Fairface (full),0.83
+FAR,UTK (full),0.945
+Lightface,Face ARG,0.959333333333333
+Lightface,Fairface (full),0.670666666666667
+Lightface,UTK (full),0.875333333333333
