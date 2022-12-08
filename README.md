@@ -24,7 +24,6 @@ Repository for the code of our Masterthesis "The influence of deep neural networ
 ## Additional experiment
 ## Tuan:
 Can be found in folder Extended_Experiment_Tuan where each folder consists one model.
-Each folder consists one model.
 - Fairness.py used for fairness evaluation
 - plot.py used to plot results
 Each folder has one file for prediction (i.e. AGR_ft.py), one file with the architecture of the model (my_model.py) and one file to train the model (train_ft.py).
