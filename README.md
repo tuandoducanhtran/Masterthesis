@@ -21,3 +21,12 @@ Repository for the code of our Masterthesis "The influence of deep neural networ
 | Face_Recognition.json | 100+ | age groups, gender, ethnicity, emotion | https://github.com/ChayanBansal/Face_Recognition/tree/master/dataset |
 | FaceARG | 100+ | age groups, gender, ethnicity, emotion | https://www.cs.ubbcluj.ro/~dadi/FaceARG-database.html |
 
+Additional experiment
+Tuan:
+Can be found in folder Extended_Experiment_Tuan where each folder consists one model.
+Each folder consists one model.
+- Fairness.py used for fairness evaluation
+- plot.py used to plot results
+Each folder has one file for prediction (i.e. AGR_ft.py), one file with the architecture of the model (my_model.py) and one file to train the model (train_ft.py).
+Additionally you can find weights trained on the dataset Fairface or UTKFace as .h5 files (i.e. utk_newage_conv1.h5 which means architecture AGR_conv1 trained on UTKFace).
+Results can be found in Output folder. 
