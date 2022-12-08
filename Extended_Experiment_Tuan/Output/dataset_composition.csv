@@ -1,0 +1,50 @@
+﻿dataset,label,class,amount,percentage
+fairface,age,0-2,48,0.016
+fairface,age,10-19,338,0.112666666666667
+fairface,age,20-29,939,0.313
+fairface,age,30-39,608,0.202666666666667
+fairface,age,3-9,352,0.117333333333333
+fairface,age,40-49,372,0.124
+fairface,age,50-59,211,0.0703333333333333
+fairface,age,60-69,94,0.0313333333333333
+fairface,age,more than 70,38,0.0126666666666667
+fairface,gender,Female,1382,0.460666666666667
+fairface,gender,Male,1618,0.539333333333333
+fairface,race,Black,408,0.136
+fairface,race,East Asian,439,0.146333333333333
+fairface,race,Indian,420,0.14
+fairface,race,Latino Hispanic,445,0.148333333333333
+fairface,race,Middle Eastern,325,0.108333333333333
+fairface,race,Southeast Asian,377,0.125666666666667
+fairface,race,White,586,0.195333333333333
+utk,age,0-2,251,0.0836666666666667
+utk,age,10-19,159,0.053
+utk,age,20-29,925,0.308333333333333
+utk,age,30-39,556,0.185333333333333
+utk,age,3-9,192,0.064
+utk,age,40-49,263,0.0876666666666667
+utk,age,50-59,295,0.0983333333333333
+utk,age,60-69,181,0.0603333333333333
+utk,age,more than 70,178,0.0593333333333333
+utk,gender,Female,1451,0.483666666666667
+utk,gender,Male,1549,0.516333333333333
+utk,race,Asian,466,0.155333333333333
+utk,race,Black,564,0.188
+utk,race,Indian,527,0.175666666666667
+utk,race,Others,216,0.072
+utk,race,White,1227,0.409
+facearg,age,0-2,3,0.001
+facearg,age,10-19,41,0.0136666666666667
+facearg,age,20-29,1282,0.427333333333333
+facearg,age,30-39,1047,0.349
+facearg,age,3-9,19,0.00633333333333333
+facearg,age,40-49,327,0.109
+facearg,age,50-59,189,0.063
+facearg,age,60-69,72,0.024
+facearg,age,more than 70,20,0.00666666666666667
+facearg,gender,Female,1739,0.579666666666667
+facearg,gender,Male,1261,0.420333333333333
+facearg,race,Asian,800,0.266666666666667
+facearg,race,Black,659,0.219666666666667
+facearg,race,Indian,792,0.264
+facearg,race,White,749,0.249666666666667
