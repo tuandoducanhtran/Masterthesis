@@ -21,8 +21,8 @@ Repository for the code of our Masterthesis "The influence of deep neural networ
 | Face_Recognition.json | 100+ | age groups, gender, ethnicity, emotion | https://github.com/ChayanBansal/Face_Recognition/tree/master/dataset |
 | FaceARG | 100+ | age groups, gender, ethnicity, emotion | https://www.cs.ubbcluj.ro/~dadi/FaceARG-database.html |
 
-Additional experiment
-Tuan:
+## Additional experiment
+## Tuan:
 Can be found in folder Extended_Experiment_Tuan where each folder consists one model.
 Each folder consists one model.
 - Fairness.py used for fairness evaluation
